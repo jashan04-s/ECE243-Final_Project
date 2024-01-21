@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/Gurjashan/Desktop/ECE243-Final_Project",
-      "program": "c:/Users/Gurjashan/Desktop/ECE243-Final_Project/build/Debug/outDebug",
+      "cwd": "c:/Users/Gurjashan/ECE243FinalProject",
+      "program": "c:/Users/Gurjashan/ECE243FinalProject/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
